@@ -20,8 +20,7 @@ One-Click to get a well-designed cross-platform Sora web UI
 
 <h4 align="center">
     <p>
-        <b>English</b> |
-        <a href="https://github.com/SoraFlows/SoraFlows/blob/main/README.zh.md">简体中文</a>
+        <b>English</b>        
     <p>
 </h4>
 
