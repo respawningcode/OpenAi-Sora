@@ -53,7 +53,7 @@ One-Click to get a well-designed cross-platform Sora web UI
   - [ ] OpenAI's ChatGPT API
   - [ ] OpenAI's whisper API
   - [ ] Midjourney API
-- [x] Supported Language: English, 简体中文, 繁体中文, 日本語, Español, 한국어,
+- [x] Supported Language: English, 简体中文, 繁体中文, 日本語, Español,
 - [x] AIToolsBoard: Click here 👉[AIToolsBoard](https://www.soraflows.com/aitoolboard)
 
 ## Quick Started
@@ -99,10 +99,7 @@ Welcome to join our discord group
 
 [![Join Discord Group](./public/discord_icon.png)](https://discord.gg/VgbsfjWkfd)
 
-Welcome to Wechat Group
-<p align="center">
-  <img src="./public/wx-group.jpg" alt="Wechat QR Code" width="300"/>
-</p>
+
 
 
 ## Sora
