@@ -9,7 +9,7 @@ Try Demo here 👉 [SoraFlows](https://www.soraflows.com)
 
 One-Click to get a well-designed cross-platform Sora web UI
 
-一键免费部署你的跨平台私人Sora应用。
+
 
 <div align="center">
 <a href="https://www.producthunt.com/posts/soraflows?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-soraflows" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=440901&theme=light" alt="SoraFlows - Open&#0045;source&#0032;AI&#0032;video&#0032;web&#0032;creation&#0032;with&#0032;Sora&#0032;Model | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
@@ -104,7 +104,7 @@ Welcome to Wechat Group
 <p align="center">
   <img src="./public/wx-group.jpg" alt="Wechat QR Code" width="300"/>
 </p>
-如果群聊过期，可以添加公众号【康哥聊AI】回复【Sora进群】，即可加入
+
 
 ## Sora
 Introduced by OpenAI, Sora is an advanced AI model capable of generating realistic and imaginative scenes from text instructions. This tool has the unique ability to produce sophisticated videos up to 60 seconds in length, featuring highly detailed scenes, complex camera movements, and characters exhibiting a wide range of emotions. However, Sora is not yet available to the public.
@@ -175,11 +175,3 @@ Open AI Sora is a tool to create stunning videos from text effortlessly. It allo
 - [ai sora tech](https://www.producthunt.com/products/ai-sora-tech/launches): Explore the latest OpenAI Sora-crafted video collection at aisoratech.com and effortlessly turn your prompts into videos.
 
 ## LICENSE
-
-
-## Contributors
-This project exists thanks to all the people who contribute.
-
-<a href="https://github.com/SoraFlows/SoraFlows/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SoraFlows/SoraFlows" />
-</a>
